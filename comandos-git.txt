@@ -1,0 +1,8 @@
+git checkout -b branch-do-dia
+
+// fazer os exercícios
+
+git add --all
+
+git commit -m "consegui fazer tudo, estou feliz =)"
+
