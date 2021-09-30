@@ -1,3 +1,7 @@
+// fazer o merge da branch da véspera
+
+git pull origin main
+
 git checkout -b branch-do-dia
 
 // fazer os exercícios
@@ -6,3 +10,6 @@ git add --all
 
 git commit -m "consegui fazer tudo, estou feliz =)"
 
+git push origin branch-do-dia
+
+// abre o PR e marca os revisores
